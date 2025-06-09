@@ -1,0 +1,15 @@
+str="Welcome To The Console!!!!"
+print(str.center(50,'*'))
+print(str.upper()) # type: ignore
+print(str.lower())
+print(str.find("too"))
+print(str.replace("Console","jungle"))
+print(str.title())
+print(str.split(" "))
+print(str.isalnum())
+print(str.capitalize())
+print(str.count("o"))
+print(str.endswith("!"))
+print(str.startswith("we"))
+print(str.rstrip("!"))
+print(str.swapcase())
