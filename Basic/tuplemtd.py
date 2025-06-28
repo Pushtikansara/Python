@@ -4,7 +4,7 @@ print(tup)
 #we can not use different methods on tuple like we use in list
 
 countries=("India", "USA", "Canada", "Australia")
-countries1=("Russia", "China", "Japan")
+countries1=("Italy", "China", "Japan")
 # Concatenating tuples
 all_countries = countries + countries1
 print(all_countries)
