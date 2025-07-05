@@ -1,4 +1,4 @@
-"""name="apple"
+name="apple"
 for i in name:
    print(i)
 fruit=["apple","mango","banana"]
@@ -8,8 +8,7 @@ for name in fruit:
         print(i)   
 
 for i in range(0,14):
-    print(i+1)
-"""   
+    print(i+1) 
 n=int(input("Enter number of elements:"))
 for i in range(n):
     num=input("enter elememt:")
