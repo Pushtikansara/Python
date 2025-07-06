@@ -5,7 +5,7 @@ student = {
 }
 print(student)
 
-colour=["Red", "Green", "Blue"]
+colour=["Red", "Green", "Blue","Green"]
 print(colour)
 
 #print(colour[0]="Pink")  # This line will raise a SyntaxError
