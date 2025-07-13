@@ -11,6 +11,6 @@ while j <7:
 
     print(j)
     if j == 5:
-       print("Breaking the loop at j =", j)
-       break
+        print("Breaking the loop at j =", j)
+        break
     j += 1
