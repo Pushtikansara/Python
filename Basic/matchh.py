@@ -1,5 +1,5 @@
-x=int(input("enter numeber:"))
-match x:
+X = int(input("enter numeber:"))
+match X:
     case 0:
          print("You entered zero")
     case 1:
