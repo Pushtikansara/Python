@@ -1,4 +1,4 @@
-info={1,4,2,3,4,"Roy",True,4.3}
+info={1,4,2,3,4,"Ruby",True,4.3}
 print(info)
 
 for value in info:
