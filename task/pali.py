@@ -8,6 +8,6 @@ def is_palindrome(text):
 # Test the function
 user_input = input("Enter a string: ")
 if is_palindrome(user_input):
-    print("Yes! It's a palindrome ")
+    print("It's a palindrome ")
 else:
-    print("Nope, not a palindrome ")
+    print("not a palindrome ")
