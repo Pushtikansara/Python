@@ -6,7 +6,7 @@ def is_palindrome(text):
     return clean_text == clean_text[::-1]
 
 # Test the function
-user_input = input("Enter a string: ")
+user_input = input("Enter : ")
 if is_palindrome(user_input):
     print("It's a palindrome ")
 else:
